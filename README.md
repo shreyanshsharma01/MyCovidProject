@@ -1,1 +1,1 @@
-# MyCovidProject
+# MyProject-Covid19
